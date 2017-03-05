@@ -1,0 +1,7 @@
+#Sat Mar 04 23:38:13 EST 2017
+base.0=C\:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ac93866f1f3f31848efba685d19a6342bccd3a89
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_076a56aa18dba5a8c833a62069cb1db3e6e32444\\classes.dex
+base.1=C\:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_076a56aa18dba5a8c833a62069cb1db3e6e32444
+file.0=C\:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ac93866f1f3f31848efba685d19a6342bccd3a89\\classes.dex
