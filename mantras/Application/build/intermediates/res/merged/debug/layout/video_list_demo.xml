@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   Copyright 2012 Google Inc. All Rights Reserved.
 
   Licensed under the Apache License, Version 2.0 (the "License");
@@ -19,32 +18,47 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-  <fragment
-      class="com.example.android.slidingtabscolors.VideoListDemoActivity$VideoListFragment"
-      android:id="@+id/list_fragment"
-      android:layout_width="match_parent"
-      android:layout_height="match_parent"/>
+    <fragment
+        android:id="@+id/list_fragment"
+        class="com.example.android.slidingtabscolors.VideoListDemoActivity$VideoListFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
-  <LinearLayout
-      android:id="@+id/video_box"
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      android:layout_gravity="bottom"
-      android:orientation="vertical">
-
-    <Button
-        android:id="@+id/close_button"
+    <LinearLayout
+        android:id="@+id/video_box"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:onClick="onClickClose"/>
+        android:layout_gravity="bottom"
+        android:orientation="vertical">
 
-    <fragment
-        class="com.example.android.slidingtabscolors.VideoListDemoActivity$VideoFragment"
-        android:id="@+id/video_fragment_container"
+        <Button
+            android:id="@+id/close_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:onClick="onClickClose" />
+
+        <fragment
+            android:id="@+id/video_fragment_container"
+            class="com.example.android.slidingtabscolors.VideoListDemoActivity$VideoFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <!-- toolbar always on top -->
+    <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
-
-  </LinearLayout>
-
+        android:layout_height="wrap_content"
+        android:background="@drawable/tile">
+        <Button
+            android:id="@+id/play_button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:onClick="onClickPlay"
+            android:text="Play Audio"
+            android:elevation="0dp"
+            android:visibility="visible" />
+    </FrameLayout>
 </merge>

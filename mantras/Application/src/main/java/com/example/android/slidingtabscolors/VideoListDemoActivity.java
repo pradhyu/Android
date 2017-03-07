@@ -23,6 +23,8 @@ import android.app.ListFragment;
 import android.content.Context;
 import android.content.Intent;
 import android.content.res.Configuration;
+import android.media.AudioManager;
+import android.media.MediaPlayer;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.Gravity;
@@ -48,6 +50,7 @@ import com.google.android.youtube.player.YouTubeThumbnailLoader;
 import com.google.android.youtube.player.YouTubeThumbnailLoader.ErrorReason;
 import com.google.android.youtube.player.YouTubeThumbnailView;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -185,6 +188,24 @@ public final class VideoListDemoActivity extends Activity implements OnFullscree
     });
   }
 
+  public void onClickPlay(@SuppressWarnings("unused") View view) {
+
+    String url = "http://cloud2.raag.me/Bhakti%20Sangeet/Mantra%20Sangrah-(Suresh%20Wadkar)/Shani%20Mantra-Suresh%20Wadkar::Raag.Me::.mp3";
+    MediaPlayer mediaPlayer = new MediaPlayer();
+    mediaPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);
+    try {
+      mediaPlayer.setDataSource(url);
+      mediaPlayer.prepare(); // might take long! (for buffering, etc)
+      mediaPlayer.start();
+    } catch (IOException e) {
+      e.printStackTrace();
+    } finally {
+      mediaPlayer=null;
+    }
+
+
+  }
+
   @TargetApi(16)
   private void runOnAnimationEnd(ViewPropertyAnimator animator, final Runnable runnable) {
     if (Build.VERSION.SDK_INT >= 16) {
@@ -208,11 +229,11 @@ public final class VideoListDemoActivity extends Activity implements OnFullscree
     static {
       /*
       https://www.youtube.com/watch?v=_fq0NtjCl1A
-https://www.youtube.com/watch?v=PEqpwGFwU8w
-https://www.youtube.com/watch?v=IcrRgmIUpfs
-https://www.youtube.com/watch?v=ZDuhp5o8Ybw
-https://www.youtube.com/watch?v=NQIfv7-k_Pw
-https://www.youtube.com/watch?v=8VQBxeU-K5Q
+      https://www.youtube.com/watch?v=PEqpwGFwU8w
+      https://www.youtube.com/watch?v=IcrRgmIUpfs
+      https://www.youtube.com/watch?v=ZDuhp5o8Ybw
+      https://www.youtube.com/watch?v=NQIfv7-k_Pw
+      https://www.youtube.com/watch?v=8VQBxeU-K5Q
        */
       List<VideoEntry> list = new ArrayList<VideoEntry>();
       list.add(new VideoEntry("Lord Shani Dev Maha Mantra - Very powerfull mantra", "_fq0NtjCl1A"));

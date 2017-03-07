@@ -1986,7 +1986,7 @@ containing a value of this type.
         public static final int list_item=0x7f0a002c;
         public static final int log_fragment=0x7f0a0057;
         public static final int media_actions=0x7f0a0062;
-        public static final int menu_toggle_log=0x7f0a007c;
+        public static final int menu_toggle_log=0x7f0a007d;
         public static final int middle=0x7f0a001d;
         public static final int multiply=0x7f0a0015;
         public static final int never=0x7f0a0021;
@@ -1996,6 +1996,7 @@ containing a value of this type.
         public static final int notification_main_column=0x7f0a0065;
         public static final int notification_main_column_container=0x7f0a0064;
         public static final int parentPanel=0x7f0a0031;
+        public static final int play_button=0x7f0a007b;
         public static final int player_view=0x7f0a0005;
         public static final int progress_circular=0x7f0a0006;
         public static final int progress_horizontal=0x7f0a0007;
@@ -2037,7 +2038,7 @@ containing a value of this type.
         public static final int text=0x7f0a0071;
         public static final int text2=0x7f0a006f;
         public static final int textSpacerNoButtons=0x7f0a0038;
-        public static final int thumbnail=0x7f0a007b;
+        public static final int thumbnail=0x7f0a007c;
         public static final int time=0x7f0a0067;
         public static final int title=0x7f0a002e;
         public static final int title_template=0x7f0a0033;

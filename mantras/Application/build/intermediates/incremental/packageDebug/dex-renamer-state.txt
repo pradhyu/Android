@@ -1,4 +1,4 @@
-#Mon Mar 06 21:24:43 EST 2017
+#Mon Mar 06 22:52:33 EST 2017
 base.0=C\:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -5,7 +5,7 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="300697427120469"
+    timestamp="304159572713337"
     token="3150377929190958373"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -27,7 +27,7 @@
         type="MAIN" />
 
     <build
-        timestamp="300697427120469"
+        timestamp="304159572713337"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\i65626\IdeaProjects\Android\mantras\Application\build\outputs\apk\Application-debug.apk"
