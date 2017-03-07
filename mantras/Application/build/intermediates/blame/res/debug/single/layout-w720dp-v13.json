@@ -1,6 +1,26 @@
 [
     {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\layout-w720dp-v13\\video_list_item.xml",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\src\\main\\res\\layout-w720dp\\video_list_item.xml"
+    },
+    {
         "merged": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\layout-w720dp-v13\\activity_main.xml",
         "source": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\src\\main\\res\\layout-w720dp\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\layout-w720dp-v13\\video_list_demo.xml",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\src\\main\\res\\layout-w720dp\\video_list_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\layout-w720dp-v13\\video_list_item.xml",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\src\\main\\res\\layout-w720dp\\video_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\layout-w720dp-v13\\video_list_demo.xml",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\src\\main\\res\\layout-w720dp\\video_list_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\layout-w720dp-v13\\activity_main.xml",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\src\\main\\res\\layout-w720dp\\activity_main.xml"
     }
 ]

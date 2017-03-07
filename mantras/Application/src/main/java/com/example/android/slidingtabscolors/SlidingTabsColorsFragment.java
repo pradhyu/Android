@@ -57,6 +57,7 @@ public class SlidingTabsColorsFragment extends Fragment {
          * @return A new {@link Fragment} to be displayed by a {@link ViewPager}
          */
         Fragment createFragment() {
+            // creates fragment here.
             return ContentFragment.newInstance(mTitle, mIndicatorColor, mDividerColor);
         }
 

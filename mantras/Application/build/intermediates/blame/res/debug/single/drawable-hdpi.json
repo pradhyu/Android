@@ -1,10 +1,34 @@
 [
     {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading_thumbnail.png",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\src\\main\\res\\drawable-hdpi\\loading_thumbnail.png"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
         "source": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\no_thumbnail.png",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\src\\main\\res\\drawable-hdpi\\no_thumbnail.png"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading_thumbnail.png",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\src\\main\\res\\drawable-hdpi\\loading_thumbnail.png"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\no_thumbnail.png",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\src\\main\\res\\drawable-hdpi\\no_thumbnail.png"
     }
 ]

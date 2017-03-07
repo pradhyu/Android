@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\src\\main\\res\\menu\\main.xml"
     }
 ]

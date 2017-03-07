@@ -5,5 +5,8 @@
     <string name="tab_messages">Messages</string>
     <string name="tab_notifications">Notifications</string>
     <string name="tab_photos">Photos</string>
+    <string name="playerfragment_text">Youtube Player</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="videolist_demo_name">Mantras to Listen!!</string>
 
 </resources>

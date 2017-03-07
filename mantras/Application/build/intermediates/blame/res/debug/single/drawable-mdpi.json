@@ -2,5 +2,25 @@
     {
         "merged": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
         "source": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_thumbnail.png",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\src\\main\\res\\drawable-mdpi\\loading_thumbnail.png"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\no_thumbnail.png",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\src\\main\\res\\drawable-mdpi\\no_thumbnail.png"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_thumbnail.png",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\Android\\mantras\\Application\\src\\main\\res\\drawable-mdpi\\loading_thumbnail.png"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\no_thumbnail.png",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\src\\main\\res\\drawable-mdpi\\no_thumbnail.png"
+    },
+    {
+        "merged": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\i65626\\IdeaProjects\\mantras\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]

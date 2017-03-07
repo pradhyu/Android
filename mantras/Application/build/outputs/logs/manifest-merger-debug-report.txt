@@ -1,8 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:20:1-44:12
+ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:20:1-57:12
 	package
 		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:21:5-52
+		INJECTED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml
 	android:versionName
 		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:23:5-30
 		INJECTED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml
@@ -18,7 +20,7 @@ ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\And
 	android:name
 		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:27:22-64
 application
-ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:29:5-41:19
+ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:29:5-54:19
 MERGED from [com.android.support:support-v13:25.0.1] C:\Users\i65626\IdeaProjects\Android\mantras\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\i65626\IdeaProjects\Android\mantras\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\i65626\IdeaProjects\Android\mantras\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
@@ -38,22 +40,36 @@ MERGED from [com.android.support:support-compat:25.0.1] C:\Users\i65626\IdeaProj
 		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:31:9-45
 	android:theme
 		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:32:9-40
-activity#com.example.android.slidingtabscolors.MainActivity
-ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:34:9-40:20
+activity#com.example.android.slidingtabscolors.VideoListDemoActivity
+ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:43:9-53:20
 	android:label
-		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:35:19-51
+		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:44:13-56
+	android:configChanges
+		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:46:13-74
 	android:name
-		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:34:19-47
+		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:45:13-50
+meta-data#@string/minVersion
+ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:47:13-78
+	android:value
+		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:47:58-76
+	android:name
+		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:47:24-57
+meta-data#@string/isLaunchableActivity
+ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:48:13-90
+	android:value
+		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:48:68-88
+	android:name
+		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:48:24-67
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:36:13-39:29
+ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:49:13-52:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:37:17-69
+ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:50:17-69
 	android:name
-		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:37:25-66
+		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:50:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:38:17-77
+ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:51:17-77
 	android:name
-		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:38:27-74
+		ADDED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml:51:27-74
 uses-sdk
 INJECTED from C:\Users\i65626\IdeaProjects\Android\mantras\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:support-v13:25.0.1] C:\Users\i65626\IdeaProjects\Android\mantras\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\AndroidManifest.xml:21:5-23:55
